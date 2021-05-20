@@ -11,3 +11,7 @@ function Video(title, minutes) {
     vid.watch();
     var vid = new Video("Pulp Fiction", 100);
     vid.watch();
+    var vid = new Video("Fantastic Mr. Fox", 90);
+    vid.watch();
+    var vid = new Video("Ghostbusters", 90);
+    vid.watch();
